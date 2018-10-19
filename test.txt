@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 git 02
-=======
-welcome to yunjisuan
-git01
->>>>>>> ab2d3d67c20f8e0e071781da28c03b0bddf7e797
